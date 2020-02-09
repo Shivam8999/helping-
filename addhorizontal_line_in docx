@@ -1,0 +1,3 @@
+def add_hor(document):
+  document.add_paragraph("_____________________________________________________________________________________________________________")
+  #if your page size is small you can delete some charectors from this line field
